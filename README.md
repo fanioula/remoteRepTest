@@ -1,4 +1,4 @@
 remoteRepTest
 =============
-This is the content of the file in the master branch (locally, to be committed).
-v1.1
+This is the content of the file in the master branch.
+Preparing to test git fetch.
